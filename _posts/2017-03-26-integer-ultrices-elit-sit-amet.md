@@ -1,8 +1,7 @@
 ---
 title: 学习笔记-网页设计与制作
 teaser: Aliquet semper, diam odio sollicitudin ante.  # 直接显示的简介
-category: lacinia
-tags: [posuere, odio, vestibulum]
+category: 
 ---
 
 Sed tempus nulla justo aliquam urna. Nulla nec ex in mauris euismod consectetur et vel felis. Curabitur vel hendrerit mauris. Nulla tincidunt massa a tempus commodo. In tempor tristique lectus, vel venenatis ipsum pharetra eu. Nam ac odio congue, dapibus sapien eu, pharetra nisi.
