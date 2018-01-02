@@ -1,6 +1,6 @@
 ---
 title: 学习笔记-网页设计与制作
-teaser: Aliquet semper, diam odio sollicitudin ante.
+teaser: Aliquet semper, diam odio sollicitudin ante.  # 直接显示的简介
 category: lacinia
 tags: [posuere, odio, vestibulum]
 ---
