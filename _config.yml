@@ -7,7 +7,7 @@ author: Wxd Yin                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   It's really a hard work for me ! !
 slogan: Action~                           # used in site header, beside title
-avatar: /i/avatar.png                       # 主页标题头像
+avatar: /i/avatar！.png                       # 主页标题头像
 banner: /i/mountains.svg                    # 主页标题背景
 url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
