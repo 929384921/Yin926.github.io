@@ -20,7 +20,7 @@ nav_menu:
     url: /
     icon: /i/icons.svg#posts # 图标 像素should be 24x24 px.
   - name: 作品集
-    url: /作品集
+    url: /
     icon: /i/icons.svg#portfolio # 图标
   - name: GitHub
     url: https://github.com/Yin926/
