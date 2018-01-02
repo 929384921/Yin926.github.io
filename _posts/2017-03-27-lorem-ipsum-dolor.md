@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum Dolor
+title: 学习笔记-信息可视化设计
 teaser: Sit amet, consectetur adipiscing elit. Donec ornare hendrerit nulla, at pharetra sapien posuere vitae.
 category: fusce
 tags: [posuere, blandit, cras]
