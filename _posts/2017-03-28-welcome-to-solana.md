@@ -1,5 +1,5 @@
 ---
-title: Welcome to Solana
+title: About the Web
 teaser: These sample posts are provided as a template for creating your own content.
 category: intro
 tags: [markdown, workflow, foss]
