@@ -1,6 +1,6 @@
 ---
-title: 学习笔记-信息可视化设计
-teaser: Sit amet, consectetur adipiscing elit. Donec ornare hendrerit nulla, at pharetra sapien posuere vitae.
+title: 弹性布局与响应式图片
+teaser: 概述基本的页面结构以及关于Flexbox的四个关键特性。
 category: Note
 ---
 
