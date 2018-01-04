@@ -9,7 +9,7 @@ description: >                              # used in a <meta> tag & /feed.xml
 slogan: W x d                           # used in site header, beside title
 avatar: /i/avatar.png                       # 主页标题头像
 banner: /i/mountains.svg                    # 主页标题背景
-url: http://929384291.github.io/              # used by plugins to generate feed.xml and sitemap.xml
+url:              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: '/929384921.github.io'                                 # prepended to all absolute filepaths
 repo: https://github.com/rlue/jekyll-solana # used in footer
 
